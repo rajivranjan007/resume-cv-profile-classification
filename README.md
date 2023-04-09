@@ -22,7 +22,7 @@ Docx2txt
 
 Streamlit
 
-Data Preparation
+#Data Preparation
 
 The data for this project consisted of resumes in doc and docx formats. The first step was to read the resumes using the docx2txt library and convert them into a dataframe. The data was then preprocessed using NLTK to remove stop words, punctuation, and perform stemming.
 
