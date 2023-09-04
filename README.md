@@ -1,5 +1,4 @@
-# Project Title
-Resume Matching and Analysis using NLP
+# Resume Matching and Analysis using NLP
 
 ## Overview
 The project involves using Natural Language Processing techniques to train a model that can analyze resumes and match them to specific job profiles. The project involves preprocessing raw data in doc and docx formats, training various classification algorithms, and deploying the final model on Streamlit.
